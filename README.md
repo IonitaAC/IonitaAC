@@ -1,4 +1,4 @@
-**<div align="center">
+<div align="center">
 
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Andrei-Cristian%20Ioniță&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Builder%20%7C%20Media%20Strategist%20%7C%20FABIZ%20@%20ASE%20Bucharest&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
@@ -11,7 +11,7 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrei--Cristian_Ioniță-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-cristian-ionita)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrei--Cristian_Ioniță-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/andrei-cristian-ionita](https://www.linkedin.com/in/andrei-cristian-ioni%C8%9B%C4%83-044019354/))
 [![Email](https://img.shields.io/badge/Email-ionita.andrei.2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ionita.andrei.2005@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Bucharest%2C%20Romania-302b63?style=for-the-badge)](https://maps.google.com/?q=Bucharest)
 
