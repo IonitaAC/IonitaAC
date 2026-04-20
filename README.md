@@ -88,20 +88,6 @@ andrei = {
 
 ---
 
-## 🎓 Education
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🏛️  Bucharest University of Economic Studies (ASE)             │
-│  📚  Faculty of International Business and Economics (FABIZ)    │
-│  🌍  English Major — Business Administration                    │
-│  📅  Oct 2024 – Present (Year 2)                                │
-│  🔬  Thesis: LLM-Assisted BPM Maturity Frameworks for SMEs     │
-└─────────────────────────────────────────────────────────────────┘
-```
-
 </div>
 
 </div>**
