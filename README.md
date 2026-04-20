@@ -30,68 +30,11 @@ andrei = {
     "education"  : "FABIZ (English Major) @ ASE Bucharest – Year 2",
     "current"    : "Founder & AI Solutions Developer @ IAC Media Network",
     "thesis"     : "LLM-Assisted BPM for SMEs in Emerging Markets",
-    "side_quest" : "Building a solar system-themed portfolio 🌌",
-    "fun_fact"   : "I DJ live events AND ship Python tools. Same energy.",
+    "side_quest" : "Learning about LLM development.",
+    "fun_fact"   : "Versatile across many fields.",
 }
+
 ```
-
-> 💡 *I build content systems that scale and AI tools that solve real problems — currently bridging both worlds while researching LLM-assisted business process improvement for my thesis.*
-
----
-
-<!-- STATS ROW -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreiionita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreiionita&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=C4B5FD"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=andreiionita&theme=tokyonight&hide_border=true&background=0f0c29&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<!-- EXPERIENCE HIGHLIGHTS -->
-## 🚀 What I've Built & Done
-
-### 🎯 IAC Media Network — Founder & AI Solutions Developer
-`Feb 2026 – Present`
-
-- 🤖 Building **AI-powered analytics tools** and a productivity app focused on positive habit formation
-- 🏗️ Full-stack development: SaaS architecture, end-to-end from idea to deployment
-
----
-
-### 📱 Social Media Strategy — Freelance *(5+ years)*
-`Dec 2020 – Apr 2026`
-
-- 📹 **500+ videos** → **15M+ views** and **20M+ impressions** across managed channels
-- 🤝 Worked directly with **SwaggerSouls (4M subs)**, **Pilav (300K subs)**, FaZe (Lacy, Jasontheween, Stable Ronaldo, Silky)
-- 🐍 Cut content research time **~60%** by writing custom **Python automation tools**
-- 📈 Grew **3 YouTube channels to 15K subscribers in 1 month** using a trend-research system I built from scratch
-- 💰 Doubled client revenues through data-driven content optimization
-
----
-
-### 🎓 AI & App Development Projects
-
-- 🧘 **Anti-Procrastination App** — Full Dart/TypeScript/Kotlin codebase with AI accountability features, Riverpod state management, GoRouter navigation
-- 🔍 **Trend Finder & Creator Scouting Tools** — AI-powered niche validation before publishing
-- 📚 **Thesis Research** — Applying NLP + k-means++ clustering to BPM maturity models for SMEs (building on published academic work)
-
----
-
-### 🎧 DJ & Assistant DJ — Cip Squad
-`Nov 2023 – Jan 2026`
-
-- 🎵 Zero technical failures across all live event bookings
-- 🎛️ Real-time crowd reading, music and lighting adjustments on the fly
 
 ---
 
@@ -126,7 +69,6 @@ andrei = {
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube_Strategy-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
 
 </div>
 
@@ -161,35 +103,5 @@ andrei = {
 ```
 
 </div>
-
----
-
-## 🌱 Currently
-
-- 🏗️ Building a **solar system-themed personal portfolio** with React + GSAP + ScrollTrigger
-- 📖 Researching **LLM applications in business process management** for my thesis
-- 🤖 Developing AI analytics tools under **IAC Media Network**
-- 📊 Deepening skills in **data analysis** and **workflow automation**
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Andrei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andreiionita&bg_color=0f0c29&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<!-- FOOTER -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%" />
-
-**"Build systems. Generate results. Keep learning."**
-
-![Profile Views](https://komarev.com/ghpvc/?username=andreiionita&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>**
