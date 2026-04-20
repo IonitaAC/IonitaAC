@@ -11,7 +11,7 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrei--Cristian_Ioniță-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andrei-cristian-ioniță)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrei--Cristian_Ioniță-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-cristian-ioniță)
 [![Email](https://img.shields.io/badge/Email-ionita.andrei.2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ionita.andrei.2005@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Bucharest%2C%20Romania-302b63?style=for-the-badge)](https://maps.google.com/?q=Bucharest)
 
