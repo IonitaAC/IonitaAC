@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Andrei-Cristian%20Ioniță&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Builder%20%7C%20Media%20Strategist%20%7C%20FABIZ%20@%20ASE%20Bucharest&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Andrei-Cristian%20Ioniță&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Implementation%20%7C%20Data%20Automation%20%7C%20Digital%20@%20Growth%20&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI+tools+that+actually+work+%F0%9F%A4%96;15M%2B+views+across+managed+channels+%F0%9F%8E%AC;From+content+strategy+to+LLM+pipelines+%F0%9F%94%97;FABIZ+Student+%40+ASE+Bucharest+%F0%9F%8E%93;Let%27s+connect+and+build+something." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI+tools+that+actually+work+%F0%9F%A4%96;15M%2B+views+across+managed+channels+%F0%9F%8E%AC;From+content+strategy+to+LLM+pipelines+%F0%9F%94%97;Let%27s+connect+and+build+something." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,7 +26,7 @@
 andrei = {
     "name"       : "Andrei-Cristian Ioniță",
     "age"        : 21,
-    "location"   : "Bucharest, Romania 🇷🇴",
+    "location"   : "Romania",
     "education"  : "FABIZ (English Major) @ ASE Bucharest – Year 3",
     "current"    : "AI Python Developer @ IAC Media Network",
     "thesis"     : "LLM-Assisted BPM for SMEs in Emerging Markets",
@@ -80,6 +80,8 @@ andrei = {
 
 | 🏆 Certificate | 🏢 Issuer | 📅 Issued |
 |---|---|---|
+| **AI Fluency: Framework & Foundations** | Anthropic | Jul 2026 |
+| **Claude 101** | Anthropic | Jul 2026 |
 | **Google AI Certificate** | Google | Apr 2026 |
 | **SQL Associate** | DataCamp | Apr 2026 *(expires Apr 2028)* |
 | **Digital Marketing** | HubSpot Academy | Apr 2026 *(expires May 2027)* |
